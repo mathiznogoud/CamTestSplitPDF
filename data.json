@@ -1,0 +1,218 @@
+{
+  "cam7.pdf": {
+    "lesson1": {
+      "ans": { "from": 11, "to": 32 },
+      "key": { "from": 153, "to": 154 }
+    },
+    "lesson2": {
+      "ans": { "from": 34, "to": 55 },
+      "key": { "from": 155, "to": 156 }
+    },
+    "lesson3": {
+      "ans": { "from": 57, "to": 80 },
+      "key": { "from": 157, "to": 158 }
+    },
+    "lesson4": {
+      "ans": { "from": 82, "to": 103 },
+      "key": { "from": 159, "to": 160 }
+    }
+  },
+  "cam8.pdf": {
+    "lesson5": {
+      "ans": { "from": 9, "to": 30 },
+      "key": { "from": 151, "to": 152 }
+    },
+    "lesson6": {
+      "ans": { "from": 32, "to": 53 },
+      "key": { "from": 153, "to": 154 }
+    },
+    "lesson7": {
+      "ans": { "from": 55, "to": 78 },
+      "key": { "from": 155, "to": 156 }
+    },
+    "lesson8": {
+      "ans": { "from": 80, "to": 101 },
+      "key": { "from": 157, "to": 158 }
+    }
+  },
+  "cam9.pdf": {
+    "lesson9": {
+      "ans": { "from": 2, "to": 23 },
+      "key": { "from": 144, "to": 145 }
+    },
+    "lesson10": {
+      "ans": { "from": 25, "to": 46 },
+      "key": { "from": 146, "to": 147 }
+    },
+    "lesson11": {
+      "ans": { "from": 48, "to": 69 },
+      "key": { "from": 148, "to": 149 }
+    },
+    "lesson12": {
+      "ans": { "from": 71, "to": 94 },
+      "key": { "from": 150, "to": 151 }
+    }
+  },
+  "cam10.pdf": {
+    "lesson13": {
+      "ans": { "from": 10, "to": 25 },
+      "key": { "from": 112, "to": 113 }
+    },
+    "lesson14": {
+      "ans": { "from": 27, "to": 43 },
+      "key": { "from": 114, "to": 115 }
+    },
+    "lesson15": {
+      "ans": { "from": 45, "to": 60 },
+      "key": { "from": 116, "to": 117 }
+    },
+    "lesson16": {
+      "ans": { "from": 62, "to": 89 },
+      "key": { "from": 118, "to": 119 }
+    }
+  },
+  "cam11.pdf": {
+    "lesson17": {
+      "ans": { "from": 13, "to": 34 },
+      "key": { "from": 124, "to": 125 }
+    },
+    "lesson18": {
+      "ans": { "from": 36, "to": 56 },
+      "key": { "from": 126, "to": 127 }
+    },
+    "lesson19": {
+      "ans": { "from": 58, "to": 79 },
+      "key": { "from": 128, "to": 129 }
+    },
+    "lesson20": {
+      "ans": { "from": 81, "to": 101 },
+      "key": { "from": 130, "to": 131 }
+    }
+  },
+  "cam12.pdf": {
+    "lesson21": {
+      "ans": { "from": 10, "to": 28 },
+      "key": { "from": 116, "to": 117 }
+    },
+    "lesson22": {
+      "ans": { "from": 30, "to": 51 },
+      "key": { "from": 118, "to": 119 }
+    },
+    "lesson23": {
+      "ans": { "from": 53, "to": 72 },
+      "key": { "from": 120, "to": 121 }
+    },
+    "lesson24": {
+      "ans": { "from": 74, "to": 93 },
+      "key": { "from": 122, "to": 123 }
+    }
+  },
+  "cam13.pdf": {
+    "lesson25": {
+      "ans": { "from": 9, "to": 29 },
+      "key": { "from": 116, "to": 117 }
+    },
+    "lesson26": {
+      "ans": { "from": 31, "to": 51 },
+      "key": { "from": 118, "to": 119 }
+    },
+    "lesson27": {
+      "ans": { "from": 53, "to": 73 },
+      "key": { "from": 120, "to": 121 }
+    },
+    "lesson28": {
+      "ans": { "from": 75, "to": 94 },
+      "key": { "from": 122, "to": 123 }
+    }
+  },
+  "cam14.pdf": {
+    "lesson29": {
+      "ans": { "from": 11, "to": 31 },
+      "key": { "from": 120, "to": 121 }
+    },
+    "lesson30": {
+      "ans": { "from": 33, "to": 52 },
+      "key": { "from": 122, "to": 123 }
+    },
+    "lesson31": {
+      "ans": { "from": 54, "to": 74 },
+      "key": { "from": 124, "to": 125 }
+    },
+    "lesson32": {
+      "ans": { "from": 76, "to": 96 },
+      "key": { "from": 126, "to": 127 }
+    }
+  },
+  "cam15.pdf": {
+    "lesson33": {
+      "ans": { "from": 12, "to": 31 },
+      "key": { "from": 121, "to": 122 }
+    },
+    "lesson34": {
+      "ans": { "from": 33, "to": 52 },
+      "key": { "from": 123, "to": 124 }
+    },
+    "lesson35": {
+      "ans": { "from": 54, "to": 74 },
+      "key": { "from": 125, "to": 126 }
+    },
+    "lesson36": {
+      "ans": { "from": 76, "to": 96 },
+      "key": { "from": 127, "to": 128 }
+    }
+  },
+  "cam16.pdf": {
+    "lesson37": {
+      "ans": { "from": 11, "to": 31 },
+      "key": { "from": 122, "to": 123 }
+    },
+    "lesson38": {
+      "ans": { "from": 33, "to": 54 },
+      "key": { "from": 124, "to": 125 }
+    },
+    "lesson39": {
+      "ans": { "from": 56, "to": 75 },
+      "key": { "from": 126, "to": 127 }
+    },
+    "lesson40": {
+      "ans": { "from": 77, "to": 97 },
+      "key": { "from": 128, "to": 129 }
+    }
+  },
+  "cam17.pdf": {
+    "lesson41": {
+      "ans": { "from": 3, "to": 22 },
+      "key": { "from": 112, "to": 123 }
+    },
+    "lesson42": {
+      "ans": { "from": 24, "to": 44 },
+      "key": { "from": 114, "to": 115 }
+    },
+    "lesson43": {
+      "ans": { "from": 46, "to": 66 },
+      "key": { "from": 116, "to": 117 }
+    },
+    "lesson44": {
+      "ans": { "from": 68, "to": 87 },
+      "key": { "from": 118, "to": 119 }
+    }
+  },
+  "cam18.pdf": {
+    "lesson45": {
+      "ans": { "from": 12, "to": 32 },
+      "key": { "from": 121, "to": 122 }
+    },
+    "lesson46": {
+      "ans": { "from": 34, "to": 55 },
+      "key": { "from": 123, "to": 124 }
+    },
+    "lesson47": {
+      "ans": { "from": 57, "to": 78 },
+      "key": { "from": 125, "to": 126 }
+    },
+    "lesson48": {
+      "ans": { "from": 80, "to": 99 },
+      "key": { "from": 127, "to": 128 }
+    }
+  }
+}
